@@ -21,6 +21,11 @@ The server starts at `http://localhost:8080`.
 To browse the database: open `http://localhost:8080/h2-console`  
 (JDBC URL: `jdbc:h2:mem:librarydb`, username: `sa`, password: *(empty)*)
 
+## API Documentation (Swagger / OpenAPI)
+
+- Swagger UI: `http://localhost:8080/swagger-ui.html`
+- OpenAPI JSON: `http://localhost:8080/v3/api-docs`
+
 ---
 
 ## API Endpoints
